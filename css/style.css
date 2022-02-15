@@ -375,7 +375,31 @@ input[type="email"]{
 }
 #skills .container .row .col-lg-6 .progress-bar
 {
-	width:90%;color:black;background-color:#35e888;
+	height:17px;color:black;background-color:#35e888;
+}
+#skills .container .row .col-lg-6 #html1
+{
+	width:100%;
+}
+#skills .container .row .col-lg-6 #css
+{
+	width:90%;
+}
+#skills .container .row .col-lg-6 #c
+{
+	width:80%;
+}
+#skills .container .row .col-lg-6 #ds
+{
+	width:75%;
+}
+#skills .container .row .col-lg-6 #photoshop
+{
+	width:60%;
+}
+#skills .container .row .col-lg-6 #bootstrap
+{
+	width:90%;
 }
 
 /*hobby section */
