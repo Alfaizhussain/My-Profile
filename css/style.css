@@ -405,7 +405,7 @@ input[type="email"]{
 /*hobby section */
 #hobby .container .row .col-lg-4
 {
-	background-image:url('/images/hbbg.jpg');
+	background:url('/images/hbbg.jpg');
 }
 #hobby .container .row .col-lg-4 div img
 {
